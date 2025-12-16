@@ -26,7 +26,7 @@ The project primarily focused on **hardware wiring, sensor interaction, firmware
 
 # Demo Video
 
-[Add your demo video link here]
+[https://drive.google.com/file/d/1aBt0am29q0R0uan34y2Xjpon4mgyDTQw/view?usp=drivesdk]
 
 ---
 
