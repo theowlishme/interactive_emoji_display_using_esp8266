@@ -37,11 +37,4 @@ The project primarily focused on **hardware wiring, sensor interaction, firmware
 - Working with prebuilt firmware and documentation  
 - Importance of testing and structured experimentation  
 
-# Future Improvements
-
-- Developing custom firmware logic  
-- Adding more interactive inputs  
-- Improving response time and animations  
-- Expanding system functionality  
-
 *This project reflects hands-on experimentation and learning in robotics and embedded systems.*
